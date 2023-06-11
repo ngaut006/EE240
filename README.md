@@ -8,7 +8,7 @@ This repository contains the code for the BigGAN project. The code is provided i
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [License](#license)
-- [Dataset Source](#Dataset Source)
+- [Dataset Source](#Dataset-Source)
 
 ## Introduction
 
